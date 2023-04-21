@@ -17,12 +17,7 @@
     width: 10%;
     height: 50px;
 }
-/* .items-list{
-    border: 1px solid black;
-    height: 50px;
-    display: flex;
-    margin: 10px;
-} */
+
 ul{
     border: 1px solid black;
     display: flex;
