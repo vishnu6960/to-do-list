@@ -21,7 +21,6 @@
 ul{
     border: 1px solid black;
     display: flex;
-    height: 50px;
-    /* float: left; */
+    height: 50px
 }
 
